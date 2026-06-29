@@ -60,3 +60,7 @@ Based on the data insights generated from the dashboard, the following strategic
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/NGUYENBATIN/YOUR_REPO_NAME.git](https://github.com/NGUYENBATIN/YOUR_REPO_NAME.git)
+
+2. **Download Dataset:**
+   Download dataset and use dashboard file: Coffee Shop Sales Perfomance Dashboard Project.xlsx
+   
