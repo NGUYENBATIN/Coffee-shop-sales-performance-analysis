@@ -32,6 +32,8 @@ The dashboard delivers insights across four major retail dimensions:
 *   **UI/UX Dashboard Design:** Built a clean, non-gridline dashboard utilizing a cohesive coffee-themed color palette, custom shape-based KPI cards, and fully linked interactive Slicers for dynamic filtering.
 
 ---
+## Dashboard overview
+<img src="Coffee shop Sales dashboard.png" width="100%">
 
 ## 🎯 Actionable Business Recommendations
 
